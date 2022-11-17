@@ -21,6 +21,6 @@ Once the enter key is pressed the filters will be applied to return anything in 
 ## Summary
 
 While this provides a simple way of filtering through the dataset provided there are some drawbacks and limitations.
- 
-- First, one must know and enter the entire date in order to return data for that date (ie: 01/01/2010 as opposed to 01/2010). Adding variables that allow to search over a month range would be one improvement to the search functionality. 
-- Another possible improvement to the filtering process would be to create a drop down list of data (dates or cities for example) that would allow the user to input queries on the data provided as opposed to needing to know what dates or cities are actually in the data set in order to search.
+
+- First, one must know and enter the entire date in order to return data for that date (ie: 01/01/2010 as opposed to 01/2010). Adding variables that allow the user to search over a month range would be one improvement to the search functionality. 
+- Another possible improvement to the filtering process would be to create a drop down list of data (dates or cities for example) that would allow the user to input queries on the data provided as opposed to needing to know what data is actually in the data set in order to search.
